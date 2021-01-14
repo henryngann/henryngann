@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**henryngann/henryngann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My names Henry, and I specialize in front-end development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on a project that involves React.js, Node.js, TypeScript, Sequelize, PostgreSQL and BootStrap. 
+
+- ⚡ Skills: 
+
+- HTML, CSS, ES6JS
+- React, Node.js, Chart.js
+- Sequelize, PostgreSQL
+- BootStrap
+- Python, Java, Arduino
+
+- 😄 About me: I'm currently in my last year at York University for Information Technology. I've been coding for atleast 6 years and it is still one of my greatest passions! Aside from coding, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message! 
+
+- 📫 How to reach me: Email me at henrynganwork@gmail.com or connect with me on [Linkedin!](https://ca.linkedin.com/in/henry-ngan-183620b6)
+
