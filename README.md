@@ -2,8 +2,9 @@
 
 My names Henry, and I specialize in front-end development.
 
-
 I'm currently working on a project that involves React.js, Node.js, TypeScript, Sequelize, PostgreSQL and BootStrap. 
+
+🎓 BA - Information Technology
 
 ⚡ Skills: 
 
@@ -17,3 +18,4 @@ I'm currently working on a project that involves React.js, Node.js, TypeScript, 
 
 📫 How to reach me: Email me at henrynganwork@gmail.com or connect with me on [Linkedin!](https://ca.linkedin.com/in/henry-ngan-183620b6)
 
+ 
