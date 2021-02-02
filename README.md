@@ -8,8 +8,8 @@ My names Henry, and I specialize in full-stack development.
 
 - ES6JS, HTML, CSS
 - PostgreSQL, Sequelized
-- Express.js, Axios, React Router
-- React
+- Express.js, Axios
+- React, React Router
 - Node.js
 
 
