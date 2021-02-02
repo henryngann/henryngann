@@ -24,6 +24,18 @@
 
 <br>
 
+
+
+**What I'm Doing**
+
+- 👨🏽‍💻 I’m currently creating on a cool platformer using PixiJS!;
+- 🌱 I’m currently learning Typescript; 
+- 💬 Ask me about anything, I am happy to help;
+- 📝[Resume](tba)
+
+
+
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
