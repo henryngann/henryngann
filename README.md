@@ -26,26 +26,26 @@
 
 
 
-**What I'm Doing**
+**Stuff about me:**
 
-- 👨🏽‍💻 I’m currently creating on a cool platformer using PixiJS!;
+- 👨🏽‍💻 I’m currently creating a cool platformer using PixiJS!;
 - 🌱 I’m currently learning Typescript; 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I'd be happy to help!;
 - 📝[Resume](tba)
 
 
 
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
+
+```
 Node   7 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.65 % 
 React  7 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   44.79 % 
 PixiJS 21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 CSS    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 HTML   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
-<!--END_SECTION:waka-->
+
 
 
 <div align="center">
