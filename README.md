@@ -32,7 +32,7 @@
 <br>
 
 
-
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-henryngann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-ngan-183620b6)](https://www.linkedin.com/in/henry-ngan-183620b6)[![Gmail Badge](https://img.shields.io/badge/-henrynganwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrynganwork@gmail.com)](mailto:henrynganwork@gmail.com)
+<div align="center">
+📫[![Linkedin Badge](https://img.shields.io/badge/-henryngann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-ngan-183620b6)](https://www.linkedin.com/in/henry-ngan-183620b6)[![Gmail Badge](https://img.shields.io/badge/-henrynganwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrynganwork@gmail.com)](mailto:henrynganwork@gmail.com)
 
  
