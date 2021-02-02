@@ -1,10 +1,10 @@
 <h1 align="center">🤠 Hey! I'm Henry!</h1>
 
 <p align="center">
-I'm a fullstack developer and designer building digital products using Lean Design principles.  I currently manage and code for my agency MangoTree Dev; which I launched with one of my best mates and fellow instructors at Le Wagon.   
-</p>
+I'm a fullstack developer that specializes in using the PERN stack.
+
 <p align="center"> 
-😄 About me: I'm currently in my last year at York University for Information Technology. I've been coding for over 4 years and it is still one of my greatest passions! Aside from coding, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message! 
+😄 I'm currently in my last year at York University for Information Technology and I can't wait to get into the workforce. I've been coding for over 4 years and it is still what I love to do in my free time! Aside from coding, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message! 
 </p>
 
 <div align="center">
