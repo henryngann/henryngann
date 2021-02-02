@@ -33,6 +33,6 @@
 
 
 
-📫 How to reach me: Email me at henrynganwork@gmail.com or connect with me on [Linkedin!](https://ca.linkedin.com/in/henry-ngan-183620b6)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-henryngann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-ngan-183620b6)](https://www.linkedin.com/in/henry-ngan-183620b6)[![Gmail Badge](https://img.shields.io/badge/-henrynganwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrynganwork@gmail.com)](mailto:henrynganwork@gmail.com)
 
  
