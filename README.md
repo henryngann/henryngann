@@ -1,8 +1,7 @@
 <h1 align="center">🤠 Hey! I'm Henry!</h1>
 
 <p align="center">
-  
-I'm a **This is bold text** fullstack developer that specializes in using the *PERN* stack.
+  I'm a <strong>This is bold text</strong> fullstack developer that specializes in using the *PERN* stack.
 
 <p align="center"> 
   
