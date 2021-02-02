@@ -1,16 +1,16 @@
 ### Hey! 👋
 
-My names Henry, and I specialize in front-end development.
+My names Henry, and I specialize in full-stack development.
 
 🎓 BA - Information Technology
 
 ⚡ Skills: 
 
-- HTML, CSS, ES6JS
-- React, Node.js, Chart.js
-- Sequelize, PostgreSQL
-- BootStrap
-- Python, Java, Arduino
+- ES6JS, HTML, CSS
+- PostgreSQL, Sequelized
+- Express.js, Axios, React Router
+- React
+- Node.js
 
 
 
