@@ -28,9 +28,9 @@
 
 **Stuff about me:**
 
-- 👨🏽‍💻 I’m currently creating a cool platformer using PixiJS!;
-- 🌱 I’m currently learning Typescript; 
-- 💬 Ask me about anything, I'd be happy to help!;
+- 👨🏽‍💻 I’m currently creating a cool platformer using PixiJS!
+- 🌱 I’m currently learning Typescript
+- 💬 Have an **Idea**? Lets **Talk**!
 - 📝[Resume](tba)
 
 
@@ -50,7 +50,7 @@ HTML   15 mins         ▒░░░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-📫Have an **Idea**? Lets **Talk**! [![Linkedin Badge](https://img.shields.io/badge/-henryngann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-ngan-183620b6)](https://www.linkedin.com/in/henry-ngan-183620b6)[![Gmail Badge](https://img.shields.io/badge/-henrynganwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrynganwork@gmail.com)](mailto:henrynganwork@gmail.com)
+📫 [![Linkedin Badge](https://img.shields.io/badge/-henryngann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-ngan-183620b6)](https://www.linkedin.com/in/henry-ngan-183620b6)[![Gmail Badge](https://img.shields.io/badge/-henrynganwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrynganwork@gmail.com)](mailto:henrynganwork@gmail.com)
 
 </div>
 
