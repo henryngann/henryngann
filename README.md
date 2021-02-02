@@ -1,11 +1,10 @@
 <h1 align="center">🤠 Hey! I'm Henry!</h1>
 
 <p align="center">
-  I'm a <strong>This is bold text</strong> fullstack developer that specializes in using the *PERN* stack.
+  I'm a <strong>fullstack developer</strong>  that specializes in using the <i>PERN</i> stack.
 
 <p align="center"> 
-  
-😄 I'm currently in my last year at York University for Information Technology and I can't wait to get into the workforce. I've been coding for over 4 years and it is still what I love to do in my free time! Aside from coding, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message! 
+😄 I'm currently in my last year at York University for Information Technology and I can't wait to get into the workforce. I've been coding for over <strong>4 years</strong>  and it is still what I love to do in my free time! Aside from coding, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message! 
 </p>
 
 <div align="center">
