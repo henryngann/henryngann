@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey! I'm Henry!</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey! I'm Henry!</h1>
 
 <p align="center">
   I'm a <strong>fullstack developer</strong>  that specializes in using the <i>PERN</i> stack.
