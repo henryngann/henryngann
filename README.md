@@ -8,8 +8,7 @@ I'm a fullstack developer and designer building digital products using Lean Desi
 </p>
 
 <div align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-henryngan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-ngan-183620b6/
-)](https://linkedin.com/in/henry-ngan-183620b6/)
+  [![Linkedin Badge](https://img.shields.io/badge/-henryngan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-ngan-183620b6)](https://www.linkedin.com/in/henry-ngan-183620b6)
   
   [![Gmail Badge](https://img.shields.io/badge/-henrynganwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrynganwork@gmail.com)](mailto:henrynganwork@gmail.com)
 </div>
