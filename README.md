@@ -31,14 +31,14 @@
 - 👨🏽‍💻 I’m currently creating a cool platformer using PixiJS!
 - 🌱 I’m currently learning Typescript
 - 💬 Have an **Idea**? Lets **Talk**!
-- 📝[Resume](https://docs.google.com/document/d/15jQWpGIvjF5Jsc3-UzH3Dk_ydWtvMF8WbnFuOTA0waA/edit?usp=sharing)
+- 📝 [Resume](https://docs.google.com/document/d/15jQWpGIvjF5Jsc3-UzH3Dk_ydWtvMF8WbnFuOTA0waA/edit?usp=sharing)
 
 
 
 
 📊 **This Week I Spent My Time On:**
 
-```
+```                                                    
 Node   7 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.65 % 
 React  7 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   44.79 % 
 PixiJS 21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
