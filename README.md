@@ -31,7 +31,7 @@
 - 👨🏽‍💻 I’m currently creating a cool platformer using PixiJS!
 - 🌱 I’m currently learning Typescript
 - 💬 Have an **Idea**? Lets **Talk**!
-- 📝 [Resume](https://drive.google.com/file/d/1xnR4PIel0WJrjRpJrBfuWB-cRq67E8LM/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1GC_LmADcZ1O21MGQxyYf40DjgRaWgYyk/view?usp=sharing)
 
 
 
