@@ -4,7 +4,7 @@
   I'm a <strong>frontend developer</strong>  that specializes in using the <i>MERN</i> stack.
 
 <p align="center"> 
-😄 I'm currently in my last year at York University for 🎓  Information Technology and I can't wait to get into the workforce! I've been coding for over <strong>4 years</strong>  and it is still what I love to do in my free time! Aside from coding, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message! 
+😄 I'm a fresh graduate looking to pursue a front-end developer career path!🎓 I've been coding for over <strong>4 years</strong>  and it is still what I love to do in my free time! Aside from coding, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message! 
 </p>
 
 <br>
@@ -39,11 +39,11 @@
 📊 **This Week I Spent My Time On:**
 
 ```                                                    
-Redux   7 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.65 % 
-Node    7 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   44.79 % 
-PixiJS  21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-CSS     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-HTML    15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+TypeScript   7 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.65 % 
+React        7 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   44.79 % 
+PixiJS       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+CSS          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 
