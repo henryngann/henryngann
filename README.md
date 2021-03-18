@@ -4,7 +4,7 @@
   I'm a <strong>frontend developer</strong>  that specializes in using the <i>MERN</i> stack.
 
 <p align="center"> 
-😄 I'm a fresh graduate looking to pursue a front-end developer career path!🎓 I've been coding for over <strong>4 years</strong>  and it is still what I love to do in my free time! Aside from coding, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message! 
+😄 I'm a fresh graduate looking for any open opportunities!🎓 I've been coding for over <strong>4 years</strong>  and it is still what I love to do in my free time! Aside from coding, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message! 
 </p>
 
 <br>
