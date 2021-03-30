@@ -31,7 +31,7 @@
 - 👨🏽‍💻 I work at Rally Cry as a Frontend Developer!
 - 🌱 I'm currently learning the intricacies of GCP!
 - 💬 Have an **Idea**? Lets **Talk**!
-- 📝 [Resume](https://drive.google.com/file/d/1hID0gQ3dCs4IwJDjZzsIZlSgFPMurpFX/view?usp=sharing)
+- 📝 Will be Updated
 
 
 
