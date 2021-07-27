@@ -4,7 +4,7 @@
   I'm a <strong>software engineer</strong>  that specializes in <i>front end</i> development.
 
 <p align="center"> 
-😄 I've been actively developing websites since childhood and it is still what I love to do in my free time! I'm an avid hackathon enthusiast so you might find me participating in the same ones you do! Aside from coding, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message! 
+😄 I've been actively developing websites since my childhood and it is still what I love to do in my free time! I'm an avid hackathon enthusiast so you might find me participating in the same ones you do! Aside from coding, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message! 
 </p>
 
 <br>
