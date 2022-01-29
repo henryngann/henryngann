@@ -33,7 +33,7 @@
 - 👨🏽‍💻 I work at Rally Cry as a Software Engineer!
 - 🌱 I'm currently learning the intricacies of GCP!
 - 💬 Have an **Idea**? Lets **Talk**!
-- 📝 Will be Updated
+- 📝 Resume available upon request
 
 
 
