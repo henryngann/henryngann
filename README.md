@@ -38,20 +38,9 @@
 
 
 
-📊 **This Week I Spent My Time On:**
-
-```                                                    
-React             7 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.65 % 
-TypeScript        7 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   44.79 % 
-JS                21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-CSS               16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-HTML              15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-```
 
 
-
-
-![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryngann&theme=dark&show_icons=true)
+![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryngann&theme=vue&show_icons=true)
 <div align="center">
   
 📫 [![Linkedin Badge](https://img.shields.io/badge/-henryngann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-ngan-183620b6)](https://www.linkedin.com/in/henry-ngan-183620b6)[![Gmail Badge](https://img.shields.io/badge/-henrynganwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrynganwork@gmail.com)](mailto:henrynganwork@gmail.com)
