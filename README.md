@@ -31,7 +31,7 @@
 **Stuff about me:**
 
 - 👨🏽‍💻 I work at Rally Cry as a Software Engineer!
-- 🌱 I'm currently learning the intricacies of GCP!
+- 🌱 I'm currently learning the intricacies of Kotlin!
 - 💬 Have an **Idea**? Lets **Talk**!
 - 📝 Resume available upon request
 
