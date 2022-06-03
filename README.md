@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey! I'm Henry!</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hey! I'm Henry!</h1>
 
 <p align="center">
   I'm a <strong>Software Engineer</strong>  that specializes in <i>front end</i> development.
@@ -33,7 +33,8 @@
 - 👨🏽‍💻 I work at Rally Cry as a Software Engineer!
 - 🌱 I'm currently learning the intricacies of Kotlin!
 - 💬 Have an **Idea**? Lets **Talk**!
-- 📝 Resume available upon request
+- 📝 https://henryngann.github.io - Check out my portfolio!
+
 
 
 
