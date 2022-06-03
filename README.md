@@ -33,7 +33,7 @@
 - 👨🏽‍💻 I work at Rally Cry as a Software Engineer!
 - 🌱 I'm currently learning the intricacies of Kotlin!
 - 💬 Have an **Idea**? Lets **Talk**!
-- 📝 ![Check out my portfolio!](https://henryngann.github.io)
+- 📝 <a href="https://henryngann.github.io" title="Portfolio Page">Check out my portfolio</a>
 
 
 
