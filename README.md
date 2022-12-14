@@ -42,7 +42,7 @@ I'm a <strong>Software Engineer</strong>  that specializes in building <i>deligh
 ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryngann&theme=vue&show_icons=true)
 <div align="center">
   
-📫 [![Linkedin Badge](https://img.shields.io/badge/-henryngann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-ngan-183620b6)](https://www.linkedin.com/in/henry-ngan-183620b6)[![Gmail Badge](https://img.shields.io/badge/-henrynganwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrynganwork@gmail.com)](mailto:henrynganwork@gmail.com)
+📫 [![Linkedin Badge](https://img.shields.io/badge/-henryngann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-ngan-183620b6)](https://www.linkedin.com/in/henry-ngan)[![Gmail Badge](https://img.shields.io/badge/-henrynganwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrynganwork@gmail.com)](mailto:henrynganwork@gmail.com)
 
 </div>
 
