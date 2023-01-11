@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hey! I'm Henry!</h1>
 
 <p align="center">
-I'm a <strong>Software Engineer</strong> that specializes in building <i>delightful</i> digital experiences.  
+A <strong>Software Engineer</strong> that specializes in building <i>delightful</i> digital experiences.  
 
 <p align="center"> 
 I've been actively developing websites ever since I was a kid and to this day, I still love to make them in my free time! I'm an avid hackathon enthusiast so you might find me participating in the same ones you do! Aside from coding, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message! :D
