@@ -39,7 +39,6 @@ I've been actively developing websites ever since I was a kid and to this day, I
 
 
 
-![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryngann&theme=vue&show_icons=true)
 <div align="center">
   
 📫 [![Linkedin Badge](https://img.shields.io/badge/-henryngann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henry-ngan-183620b6)](https://www.linkedin.com/in/henryngan)[![Gmail Badge](https://img.shields.io/badge/-henrynganwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrynganwork@gmail.com)](mailto:henrynganwork@gmail.com)
