@@ -4,7 +4,7 @@
 A <strong>Software Engineer</strong> that specializes in building <i>delightful</i> digital experiences!
 
 <p align="center"> 
-I've been actively developing websites ever since I was a kid and to this day, I still love to make them in my free time! I'm an avid hackathon enthusiast so you might find me participating in the same ones you do! Aside from programming, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message!  :D
+I've been actively developing websites ever since I was a kid and to this day, I still love to make them in my free time! I'm an avid hackathon enthusiast so you might find me participating in the same ones you do! Aside from programming, one of my favourite past-times is that I enjoy barking at other dogs. Just kidding, but if you want to get to know me, shoot me a message!   :D
 </p>
 
 <br>
