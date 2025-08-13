@@ -44,10 +44,7 @@ If this sounds interesting, open a discussion or DM me. 🤝
   `react · typescript · vercel · playwright`
 - 🏆 **Hackathon 2021 Winner** — fast prototype → polished demo → 🥇  
   `react · node · postgresql`
-- 🕹️ **Rally Cry projects** — selected features & learnings (write-up / case study)  
-  `spring boot · react · material ui · team play`
 
-> Tip: pin your repos to match these. Add screenshots (in `/assets`) and link to write-ups.
 
 
 ### let’s connect
