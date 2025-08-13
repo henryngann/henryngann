@@ -43,26 +43,6 @@ If this sounds interesting, open a discussion or DM me. 🤝
 
 ---
 
-### skills & tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="34" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="34" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="34" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="34" alt="Material UI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="34" alt="Playwright" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="34" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="34" alt="Vercel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="34" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="34" alt="CSS3" />
-</p>
-
----
-
 ### featured work
 
 <!-- Replace repo names after you pin or create them -->
@@ -80,5 +60,3 @@ If this sounds interesting, open a discussion or DM me. 🤝
 
 Got an idea or want to hoop in Toronto? DM me or shoot an email.  
 <strong>Open to collabs, mentorship chats, and cool web experiments.</strong>
-Oh also, I'm looking for a Pokemon Card. Message me if you have a TAG 10 Magikarp from Paldea Evolved. :) Cheers!
-
