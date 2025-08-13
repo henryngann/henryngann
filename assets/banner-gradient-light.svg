@@ -1,0 +1,70 @@
+<!-- assets/banner-gradient-light.svg -->
+<svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Henry Ngan — I build delightful digital experiences">
+  <defs>
+    <!-- soft light background -->
+    <radialGradient id="bg" cx="50%" cy="40%" r="80%">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f6f7fb"/>
+    </radialGradient>
+
+    <!-- emerald → cyan accent (tweak these to taste) -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+
+    <!-- whisper shadow for card depth -->
+    <filter id="cardShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="blur"/>
+      <feOffset dy="4" result="offset"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.18"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode in="offset"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- ultra-subtle grain -->
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.02"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- card -->
+  <g filter="url(#cardShadow)">
+    <rect x="20" y="18" width="1160" height="224" rx="16" fill="#ffffff"/>
+    <!-- hairline borders -->
+    <rect x="20" y="18" width="1160" height="224" rx="16" fill="none" stroke="#e5e7eb"/>
+    <rect x="20" y="18" width="1160" height="224" rx="16" fill="none" stroke="url(#accent)" stroke-opacity="0.15"/>
+
+    <!-- accent hairline -->
+    <rect x="32" y="210" width="1136" height="1.2" fill="url(#accent)" opacity="0.45"/>
+
+    <!-- text -->
+    <text x="56" y="120"
+      font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
+      font-weight="800" font-size="56" fill="#0b0b0c">Henry Ngan</text>
+
+    <text x="56" y="155"
+      font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial"
+      font-size="20" fill="#374151">I build delightful digital experiences</text>
+
+    <text x="56" y="185"
+      font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+      font-size="14" fill="#475569" opacity="0.95">
+      React · TypeScript · Spring Boot · PostgreSQL · Toronto 🏙️
+    </text>
+  </g>
+
+  <!-- subtle grain on top -->
+  <rect width="1200" height="260" fill="#000" opacity="0" filter="url(#grain)"/>
+</svg>
