@@ -23,13 +23,12 @@
 
 ### about me
 
-- 🧑🏽‍💻 used to ship full-stack at **Rally Cry** (React/TypeScript/Node + Java/Spring Boot)
-- 🧠 learning more **Three.js** and exploring creative web graphics
-- 🏀 🏐 big on **basketball** and **volleyball** — ask me about pick-up games
+- 🧑🏽‍💻 used to work full-stack at **Rally Cry** 
+- 🧠 learning about **Three.js** and exploring AI integrations.
+- 🏀 🏐 big on **basketball** and **volleyball** — ask me about pick-up games!!
 - 🎒 huge **Pokémon** nerd
-- 🏙️ based in / obsessed with **downtown Toronto**
+- 🏙️ based in **downtown Toronto**
 - 🎂 turning **27** this year
-- 🏆 won a **hackathon in 2021**
 - 💡 always down to jam on ideas — **got one? let’s talk!**
 
 ---
