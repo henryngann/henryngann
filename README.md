@@ -30,7 +30,7 @@ I've been actively developing websites ever since I was a kid and to this day, I
 
 **Stuff about me:**
 
-- 👨🏽‍💻 I work at Rally Cry as a Software Engineer!
+- 👨🏽‍💻 I work at TBD as a Software Engineer!
 - 🌱 I'm currently learning more about Three.js
 - 💬 Have an **Idea**? Lets **Talk**!
 - 📝 <a href="https://henry-ngan.com" title="Portfolio Page">Check out my portfolio!</a>
