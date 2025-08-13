@@ -30,8 +30,8 @@
 ### what i’m building now
 
 > **Project:** a tool that helps **young people invest** confidently with the help of **AI** and battle-hardened traders.  
-> **Status:** early build (naming TBD) — looking for feedback + collaborators  
-> **Pitch:** think “friendly co-pilot” that explains, simulates, and nudges good habits
+> **Status:** early build — looking for feedback.
+> **Pitch:** think “friendly investment friend” that gets straight to the point, and nudges good investment habits.
 
 If this sounds interesting, open a discussion or DM me. 🤝
 
@@ -40,7 +40,7 @@ If this sounds interesting, open a discussion or DM me. 🤝
 ### featured work
 
 <!-- Replace repo names after you pin or create them -->
-- 🧭 **AI Investing Co-Pilot** — WIP: onboarding flows, risk profiling, and explainer UI  
+- 🧭 **Grow my Money** — WIP: onboarding flows, risk profiling, and explainer UI  
   `react · typescript · vercel · playwright`
 - 🏆 **Hackathon 2021 Winner** — fast prototype → polished demo → 🥇  
   `react · node · postgresql`
