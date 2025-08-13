@@ -75,16 +75,6 @@ If this sounds interesting, open a discussion or DM me. 🤝
 
 > Tip: pin your repos to match these. Add screenshots (in `/assets`) and link to write-ups.
 
----
-
-### stats (because graphs are fun)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henryngann&show_icons=true&hide_border=true&rank_icon=github" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henryngann&hide_border=true" height="150" alt="GitHub streak" />
-</p>
-
----
 
 ### let’s connect
 
