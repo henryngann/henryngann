@@ -80,14 +80,15 @@ If this sounds interesting, open a discussion or DM me. 🤝
 ### stats (because graphs are fun)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" height="150" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henryngann&show_icons=true&hide_border=true&rank_icon=github" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henryngann&hide_border=true" height="150" alt="GitHub streak" />
 </p>
 
 ---
 
 ### let’s connect
 
-Got an idea or want to hoop/volley in Toronto? DM me or shoot an email.  
+Got an idea or want to hoop in Toronto? DM me or shoot an email.  
 <strong>Open to collabs, mentorship chats, and cool web experiments.</strong>
+Oh also, I'm looking for a Pokemon Card. Message me if you have a TAG 10 Magikarp from Paldea Evolved. :) Cheers!
 
