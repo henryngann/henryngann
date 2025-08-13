@@ -4,7 +4,11 @@
 -->
 
 <p align="center">
-  <img src="./assets/banner-gradient.svg" width="100%" alt="Henry Ngan banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-gradient.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-gradient-light.svg" />
+    <img src="./assets/banner-gradient.svg" width="100%" alt="Henry Ngan banner" />
+  </picture>
 </p>
 
 
