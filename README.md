@@ -29,7 +29,7 @@
 
 ### what i’m building now
 
-> **Project:** a tool that helps **young people invest** confidently with **AI**  
+> **Project:** a tool that helps **young people invest** confidently with the help of **AI** and battle-hardened traders.  
 > **Status:** early build (naming TBD) — looking for feedback + collaborators  
 > **Pitch:** think “friendly co-pilot” that explains, simulates, and nudges good habits
 
