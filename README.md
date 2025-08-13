@@ -1,15 +1,4 @@
-<!--
-  Tip: this README lives in a repo named exactly like your GitHub username.
-  Many sections below auto-adapt to dark/light mode and look great on mobile.
--->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-gradient.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-gradient-light.svg" />
-    <img src="./assets/banner-gradient.svg" width="100%" alt="Henry Ngan banner" />
-  </picture>
-</p>
 
 
 <h1 align="center">hey, i'm henry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="wave"></h1>
