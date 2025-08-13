@@ -40,10 +40,10 @@ If this sounds interesting, open a discussion or DM me. 🤝
 ### featured work
 
 <!-- Replace repo names after you pin or create them -->
-- 🧭 **Grow my Money** — WIP: onboarding flows, risk profiling, and explainer UI  
-  `react · typescript · vercel · playwright`
+- 🧭 **Step One** — WIP: onboarding flows, risk profiling, and explainer UI  
+  `react · typescript · vercel · playwright · java · spring boot · postgreSQL`
 - 🏆 **Hackathon 2021 Winner** — fast prototype → polished demo → 🥇  
-  `react · node · postgresql`
+  `react · node · postgresql · twilio API`
 
 
 
