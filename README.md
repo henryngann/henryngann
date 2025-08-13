@@ -29,8 +29,10 @@
 
 ### what i’m building now
 
-> **Project:** a tool that helps **young people invest** confidently with the help of **AI** and battle-hardened traders.  
+> **Project:** a tool that helps **young people invest** confidently with the help of **AI** and battle-hardened traders.
+
 > **Status:** early build — looking for feedback.
+
 > **Pitch:** think “friendly investment friend” that gets straight to the point, and nudges good investment habits.
 
 If this sounds interesting, open a discussion or DM me. 🤝
