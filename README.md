@@ -4,7 +4,7 @@
 <h1 align="center">hey, i'm henry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="wave"></h1>
 
 <p align="center">
-  Software Engineer • Pokemon Collector • ex-Rally Cry full-stack • hackathon winner (2021) 🏆
+  Pokemon Collector • ex-Rally Cry full-stack Software Engineer • hackathon winner (2021) 🏆
 </p>
 
 <p align="center">
