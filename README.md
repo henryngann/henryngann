@@ -20,7 +20,7 @@
 - 🧑🏽‍💻 used to work full-stack at **Rally Cry** 
 - 🧠 learning about **Three.js** and exploring AI integrations.
 - 🏀 🏐 big on **basketball** and **volleyball** — ask me about pick-up games!!
-- 🎒 huge **Pokémon** nerd
+- 🎒 huge **Pokémon** geek
 - 🏙️ based in **downtown Toronto**
 - 🎂 turning **27** this year
 - 💡 always down to jam on ideas — **got one? let’s talk!**
