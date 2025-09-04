@@ -41,7 +41,6 @@ If this sounds interesting, open a discussion or DM me. 🤝
 
 ### featured work
 
-<!-- Replace repo names after you pin or create them -->
 - 🧭 **Project M** — WIP: onboarding flows, risk profiling, and explainer UI  
   `react · typescript · vercel · playwright · java · spring boot · postgreSQL`
 - 🏆 **Hackathon 2021 Winner** — fast prototype → polished demo → 🥇  
