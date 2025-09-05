@@ -43,6 +43,8 @@ If this sounds interesting, open a discussion or DM me. 🤝
 
 - 🧭 **Project M** — WIP: onboarding flows, risk profiling, and explainer UI  
   `react · typescript · vercel · playwright · java · spring boot · postgreSQL`
+- 🧭 **Bearish Or Bullish** — Pattern Recognition Game  
+  `react · typescript · vercel `
 - 🏆 **Hackathon 2021 Winner** — fast prototype → polished demo → 🥇  
   `react · node · postgresql · twilio API`
 
