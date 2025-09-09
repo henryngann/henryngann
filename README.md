@@ -27,9 +27,6 @@
 
 ---
 
-
----
-
 ### featured work
 
 - 🧭 **Project M** — WIP: onboarding flows, risk profiling, and explainer UI  
