@@ -22,7 +22,6 @@
 - 🏀 🏐 big on **basketball**, **volleyball** and **pickleball** — ask me about any pick-up games!!
 - 🎒 huge **Pokémon** geek
 - 🏙️ based in **downtown Toronto**
-- 🎂 turning **27** this year
 - 💡 always down to jam on ideas — **got one? let’s talk!**
 
 ---
