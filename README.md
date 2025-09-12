@@ -20,7 +20,7 @@
 - 🧑🏽‍💻 used to work full-stack at **Rally Cry** 
 - 🧠 learning about **Three.js** and exploring AI integrations.
 - 🏀 🏐 big on **basketball**, **volleyball** and **pickleball** — ask me about any pick-up games!!
-- 🎒 huge **Pokémon** geek
+- 🎒 **Pokémon** Collector! Searching for P.M 1996 JP Slabs, BGS and TAG 10's specifically.
 - 🏙️ based in **downtown Toronto**
 - 💡 always down to jam on ideas — **got one? let’s talk!**
 
