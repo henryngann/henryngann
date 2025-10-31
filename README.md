@@ -4,7 +4,7 @@
 <h1 align="center">hey, i'm henry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="wave"></h1>
 
 <p align="center">
-  Pokemon Collector • ex-Rally Cry full-stack Software Engineer • hackathon winner (2021) 🏆
+  Pokemon Collector • full-stack Software Engineer • hackathon winner (2021) 🏆
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### about me
 
-- 🧑🏽‍💻 previously full-stack at **Rally Cry** 
+- 🧑🏽‍💻 Frontend Engineer at **Orbis** 
 - 🧠 learning about **Three.js** and exploring AI integrations.
 - 🏀 🏐 big on **basketball**, **volleyball** and **pickleball** — ask me about any pick-up games!!
 - 🎒 **Pokémon** Collector! Searching for P.M 1996 JP Slabs, BGS and TAG 10's specifically.
