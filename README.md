@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://henryngan.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-henry--ngan.com-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://henryngan.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-henryngan.com-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:henrynganwork@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-henrynganwork%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/henryngan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-henryngan-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
